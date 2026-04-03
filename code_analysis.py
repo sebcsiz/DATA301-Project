@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""56666928_Lab6.ipynb
+"""
 
 # Understat Soccer Player Performance Analysis
 ## Sebastian Csizmazia

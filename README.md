@@ -71,8 +71,8 @@ The notebook includes a sampling experiment that repeatedly draws random player 
 - Python 3
 - `understatapi`
 - `pandas`# Understat Soccer Player Performance Analysis
-- plotly
-- matplotlib
-- plotly
+- `plotly`
+- `matplotlib`
+
 
 ---
