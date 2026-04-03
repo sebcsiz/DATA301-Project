@@ -2,4 +2,3 @@ understatapi
 plotly
 pandas 
 matplotlib
-plotly
